@@ -14,3 +14,4 @@ public class sum {
 	        System.out.println("Sum of digits: " + sum);
 	    }
 }
+//Write a program to print the sum of all the digits of a given number. 
