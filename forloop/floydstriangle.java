@@ -15,3 +15,4 @@ public class floydstriangle {
 	}
 
 }
+//Write a program to print the Floyds Triangle 
