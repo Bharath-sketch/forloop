@@ -21,3 +21,4 @@ public class theprimenumbers {
 					  }
 					}
 }
+//Write a program to print the prime numbers between 10 and 99.
